@@ -1,0 +1,2 @@
+PS G:\New folder (2)\MachineLearningModelToHeroku-master\MLForCloudDeployment_Heroku> python -m venv admission 
+PS G:\New folder (2)\MachineLearningModelToHeroku-master\MLForCloudDeployment_Heroku> .\admission\Scripts\activate
